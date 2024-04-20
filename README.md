@@ -6,9 +6,9 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## Contributors
 ---
-@electron-shaders - Model 2 fitting and reflection and markdown comments
-@Zyx8890 - Data randomization, EDA and Visualization analysis on sampled dataset
-@ZhuyuZeng - Model 1 fitting and reflection
+1. @electron-shaders - Model 2 fitting and reflection and markdown comments
+2. @Zyx8890 - Data randomization, EDA and Visualization analysis on sampled dataset
+3. @ZhuyuZeng - Model 1 fitting and reflection
 
 
 ## Problem definition
