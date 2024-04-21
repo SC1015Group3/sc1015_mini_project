@@ -27,10 +27,12 @@ Our project focuses on develping a model to predict the **popularity level** of 
 2. `Graphviz` Usage
 3. API Usage
 4. `RandomForestClassifier` model
-5. Collaborating using GitHub
+5. Calculate feature importance with a Random Forest based on feature permutation
+6. Collaborating using GitHub
 
 ## References
 ---
 - https://www.kaggle.com/datasets/joebeachcapital/30000-spotify-songs/data
 - https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html#sklearn-ensemble-randomforestclassifier
 - https://www.datacamp.com/tutorial/decision-tree-classification-python#visualizing-decision-trees-youca
+- https://scikit-learn.org/stable/auto_examples/ensemble/plot_forest_importances.html
