@@ -3,7 +3,7 @@
 
 ## About
 ---
-This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on Spotify songs from the Spotify Dataset API provided by kaggle. For detailed walkthrough, please view the source code in the file named `project.ipynb` under the root directory.
+This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on Spotify songs from the Spotify Dataset API provided by kaggle. For detailed walkthrough, please view the source code in the file named [`project.ipynb`](https://github.com/SC1015Group3/sc1015_mini_project/blob/main/project.ipynb) under the root directory.
 
 ## Contributors
 ---
